@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BookApp</string>
+    <string name="imageTODO">TODO</string>
+
+    <string name="home">Home</string>
+    <string name="searchHintTv">Titles, authors, or topics</string>
+    <string name="categories">Categories</string>
+    <string name="trendingBook">Trending Books</string>
+    <string name="topAuthor">Top Authors</string>
+
+    <string name="motivation">Motivation &amp; Inspiration</string>
+</resources>
